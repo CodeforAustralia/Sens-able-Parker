@@ -25,6 +25,10 @@ Great - Head over to contribution.md to get started!
 
 ## Resources
 
+### Data Sources
+
+- [Melb City Parking Spaces Data](https://data.melbourne.vic.gov.au/Transport/Parking-Events-From-Parking-Bays-With-Sensors/8nfq-mtcn)
+
 ### Git Flow
 
 [http://nvie.com/posts/a-successful-git-branching-model/](http://nvie.com/posts/a-successful-git-branching-model/)
